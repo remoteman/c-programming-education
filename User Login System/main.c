@@ -1,4 +1,6 @@
 #include <stdio.h>
+#include <string.h>
+#include <windows.h>
 
 int main(int argc, char *argv[]) {
 char kullanici[12];
@@ -24,17 +26,18 @@ if(strcmp(sifre,sifre1)==0)
 goto c;
 else
 {printf("Sifre Dogrulamasi Hatali\n"); goto a;}
-c : 
+c :
 printf("Kayit Tamamlandi.Giris Yapabilirsiniz.\n");
-p : 
+p :
 printf("Kullanici Adi : "); scanf("%s",&girisk);
 printf("Sifre : "); scanf("%s",&giriss);
 if(strcmp(girisk,kullanici)==0 && strcmp(giriss,sifre)==0)
 goto k;
-else 
+else
 {printf("Kullanici Adi Ya da Sifre Hatali.\n"); goto p;}
 k : printf("Giris Basarili.");
 
 system("pause");
 return 0;
 }
+
