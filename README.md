@@ -13,13 +13,7 @@
 <p>[TR]Bu eğitim serisinde proje odaklı çalışarak c++ programlama dilini öğreneceğiz.</p>
 
 ### <p>- What will we learn? -&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - Neler &Ouml;ğreneceğiz ? -</p>
-
-- Basic C / C ++ Commands.                   - Temel C/C++ Komutları.
-- Programming Algorithm.                     - Programlama Algoritması. 
-- Mathematical operations in programming.    - Programlamada Matematiksel işlemler. 
-- Complex project solutions.                 - Karmaşık proje çözümleri.
-- Machine programming.                       - Makina programlama.
-- More than one project integration          - Birdan fazla proje entegresi. 
+<p>- Basic C / C ++ Commands.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- Temel C/C++ Komutları.<br />- Programming Algorithm.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- Programlama Algoritması. <br />- Mathematical operations in programming.&nbsp; &nbsp; - Programlamada Matematiksel işlemler. <br />- Complex project solutions.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - Karmaşık proje &ccedil;&ouml;z&uuml;mleri.<br />- Machine programming.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- Makina programlama.<br />- More than one project integration&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - Birdan fazla proje entegresi.</p>
 
 
 
