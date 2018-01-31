@@ -4,8 +4,8 @@
 
 # C++ Programming Tutorial Series
 
-https://media.giphy.com/media/xUOwG73Wh7m6X8Ik1O/giphy.gif
 
+<img src="https://media.giphy.com/media/xUOwG73Wh7m6X8Ik1O/giphy.gif"> 
 
 
 ## Education About
@@ -21,7 +21,7 @@ Bu eğitim serisinde proje odaklı çalışarak c++ programlama dilini öğrenec
 - Makina programlama.
 - Birdan fazla proje entegresi.
 
-<img src="https://i.hizliresim.com/LbAYyZ.png" width="575" height="383"> 
+
 
 ### Hangi Materyallerden Faydalanacağız
 
