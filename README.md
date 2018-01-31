@@ -4,6 +4,10 @@
 
 # C++ Programming Tutorial Series
 
+<img src="https://camo.githubusercontent.com/b086138672962c05b286b3c313af6f7961fbc666/68747470733a2f2f692e68697a6c69726573696d2e636f6d2f4c624159795a2e706e67" width="650" height="400" > 
+
+
+
 ## Education About
 
 Bu eğitim serisinde proje odaklı çalışarak c++ programlama dilini öğreneceğiz.
