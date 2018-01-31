@@ -7,7 +7,7 @@
 <img src="https://camo.githubusercontent.com/b086138672962c05b286b3c313af6f7961fbc666/68747470733a2f2f692e68697a6c69726573696d2e636f6d2f4c624159795a2e706e67" width="650" height="400" > 
 
 
-source ==>
+
 ## Education About
 
 [ENG]In this training series, we will learn the c ++ programming language by focusing on the project.
