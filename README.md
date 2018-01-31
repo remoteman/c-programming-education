@@ -35,7 +35,7 @@ Bu eğitim serisinde proje odaklı çalışarak c++ programlama dilini öğrenec
 3. There're tremendous excellent tools/libraries that are written in C/C++, which you can use to build the basic blocks of your project
 4. If you want to write programs(Android apps, server side programs, etc.) that are secure and efficient, you should consider using C/C++
 
-                                                                                 Source ==> https://www.quora.com/Why-is-C++-important
+                                                                                 'Source ==> https://www.quora.com/Why-is-C++-important'
 </center>
                                                                                    
 
