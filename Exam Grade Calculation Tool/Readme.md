@@ -10,3 +10,7 @@
 <p>You will learn about the making "<b>if() , else if() , else</b>" command</p>
 <p>You will learn about the making "<b>functions</b>" command</p>
 <p>You will learn about the making "<b>switch,case</b>" command</p>
+<img src="https://raw.githubusercontent.com/remoteman/c-programming-education/master/Exam%20Grade%20Calculation%20Tool/Rules.png" width="700" height="350" >
+<img src="https://raw.githubusercontent.com/remoteman/c-programming-education/master/Exam%20Grade%20Calculation%20Tool/Compiletool.png" width="700" height="350" >
+
+
