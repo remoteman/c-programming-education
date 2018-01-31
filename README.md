@@ -4,7 +4,7 @@
 
 # C++ Programming Tutorial Series
 
-<iframe src="https://giphy.com/embed/xUOwG73Wh7m6X8Ik1O" width="480" height="275" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/xUOwG73Wh7m6X8Ik1O">via GIPHY</a></p>
+https://media.giphy.com/media/xUOwG73Wh7m6X8Ik1O/giphy.gif
 
 
 
