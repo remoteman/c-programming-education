@@ -5,7 +5,7 @@
 # C++ Programming Tutorial Series
 
 
-<img src="https://media.giphy.com/media/xUOwG73Wh7m6X8Ik1O/giphy.gif"> 
+<img src="https://i.hizliresim.com/BLPELp.gif"> 
 
 
 ## Education About
