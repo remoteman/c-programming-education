@@ -4,6 +4,10 @@
 
 # C++ Programming Tutorial Series
 
+<iframe src="https://giphy.com/embed/xUOwG73Wh7m6X8Ik1O" width="480" height="275" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/xUOwG73Wh7m6X8Ik1O">via GIPHY</a></p>
+
+
+
 ## Education About
 
 Bu eğitim serisinde proje odaklı çalışarak c++ programlama dilini öğreneceğiz.
@@ -35,7 +39,7 @@ Bu eğitim serisinde proje odaklı çalışarak c++ programlama dilini öğrenec
 3. There're tremendous excellent tools/libraries that are written in C/C++, which you can use to build the basic blocks of your project
 4. If you want to write programs(Android apps, server side programs, etc.) that are secure and efficient, you should consider using C/C++
 
-                                                                                 'Source ==> https://www.quora.com/Why-is-C++-important'
+
 </center>
                                                                                    
 
