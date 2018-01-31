@@ -4,10 +4,6 @@
 
 # C++ Programming Tutorial Series
 
-
-<img src="https://i.hizliresim.com/BLPELp.gif"> 
-
-
 ## Education About
 
 Bu eğitim serisinde proje odaklı çalışarak c++ programlama dilini öğreneceğiz.
@@ -21,6 +17,7 @@ Bu eğitim serisinde proje odaklı çalışarak c++ programlama dilini öğrenec
 - Makina programlama.
 - Birdan fazla proje entegresi.
 
+<img src="https://i.hizliresim.com/VraA8j.gif" width="650" height="325" > 
 
 
 ### Hangi Materyallerden Faydalanacağız
