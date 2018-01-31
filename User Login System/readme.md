@@ -5,7 +5,7 @@
 I mentioned this how to create a user login system through the programming language of this video. At the same time, you will learn basic coding logic and algorithm while creating a project.how to add functions,if,else , string.h ,stdio.h  with CSS&HTML codes in this video.
 
 <b>What Will I Learn?</b>
-You will learn how to create a <b>user login system</b>
-You will learn about the making "<b>printf(),scanf()</b>" command
-You will learn about the making "<b>if(),else</b>" command
-You will learn about the making "<b>strlen,strcmp</b>" command
+<p>You will learn how to create a <b>user login system</b></p>
+<p>You will learn about the making "<b>printf(),scanf()</b>" command</p>
+<p>You will learn about the making "<b>if(),else</b>" command</p>
+<p>You will learn about the making "<b>strlen,strcmp</b>" command</p>
