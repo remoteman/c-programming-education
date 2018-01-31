@@ -13,15 +13,15 @@
  [ENG]In this training series, we will learn the c ++ programming language by focusing on the project.
  [TR]Bu eğitim serisinde proje odaklı çalışarak c++ programlama dilini öğreneceğiz.
 
-###  - What will we learn? -                         - Neler Öğreneceğiz ? -
+###  - What will we learn? -                 - Neler Öğreneceğiz ? -
           
-- Basic C / C ++ Commands.                      - Temel C/C++ Komutları.
-- Programming Algorithm.                        - Programlama Algoritması.    
-- Mathematical operations in programming.       - Programlamada Matematiksel işlemler.  
-- Complex project solutions.                    - Karmaşık proje çözümleri.
-- Machine programming.                          - Makina programlama.
-- More than one project integration             - Birdan fazla proje entegresi.                                
-                                                
+- Basic C / C ++ Commands.                   - Temel C/C++ Komutları.
+- Programming Algorithm.                     - Programlama Algoritması.    
+- Mathematical operations in programming.    - Programlamada Matematiksel işlemler.  
+- Complex project solutions.                 - Karmaşık proje çözümleri.
+- Machine programming.                       - Makina programlama.
+- More than one project integration          - Birdan fazla proje entegresi.                                
+                                             
                                                 
                                                 
                                                 
