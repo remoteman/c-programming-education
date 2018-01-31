@@ -17,7 +17,7 @@ Bu eğitim serisinde proje odaklı çalışarak c++ programlama dilini öğrenec
 - Birdan fazla proje entegresi.
 
 ### Hangi Materyallerden Faydalanacağız
-<img src="https://i.hizliresim.com/LbAYyZ.png" width="300" height="300">
+<img src="https://i.hizliresim.com/LbAYyZ.png">
 -ATOM Text Editor ==> https://github.com/atom/atom
 -Derleyici Aracı (MİNGW) ==> https://github.com/Alexpux/mingw-w64
 
