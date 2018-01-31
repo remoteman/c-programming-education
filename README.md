@@ -10,8 +10,8 @@
 
 ##  // Education About - - - Eğitim Hakkında //
 
-<p><b>[ENG]</b>In this training series, we will learn the c ++ programming language by focusing on the project.</p>
-<p><b>[TR]</b>Bu eğitim serisinde proje odaklı çalışarak c++ programlama dilini öğreneceğiz.</p>
+<p><b>[ENG]</b> In this training series, we will learn the c ++ programming language by focusing on the project.</p>
+<p><b>[TR]</b> Bu eğitim serisinde proje odaklı çalışarak c++ programlama dilini öğreneceğiz.</p>
 
 
 ### <p>[ENG] - What will we learn? - [ENG]    &nbsp; &nbsp;   [TR] - Neler &Ouml;ğreneceğiz ? - [TR]</p>
