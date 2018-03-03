@@ -2,7 +2,7 @@
 <p><a href="https://github.com/remoteman/c-programming-education/blob/master/LICENSE" rel="nofollow"><img src="https://camo.githubusercontent.com/3ccf4c50a1576b0dd30b286717451fa56b783512/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d4d49542d79656c6c6f772e737667" alt="License" style="max-width:100%;"></a></p>
 
 
-# C Programming Tutorial Series
+# C++ Programming Tutorial Series
 
 <img src="https://camo.githubusercontent.com/b086138672962c05b286b3c313af6f7961fbc666/68747470733a2f2f692e68697a6c69726573696d2e636f6d2f4c624159795a2e706e67" width="600" height="350" >
 
