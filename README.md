@@ -37,9 +37,3 @@
 - Güvenli ve verimli olan programlar (Android uygulamaları, sunucuya yönelik programlar vb.) yazmak istiyorsanız, C/C++ uygulamasını kullanmayı düşünebilirsiniz.
 ### Contact
 https://steemit.com/@remoteman
-
-### Video Tutorials
-https://utopian.io/@remoteman
-
-### My Youtube Channel
-https://www.youtube.com/channel/UC5i032OSsOFWFSH99vUJLxg
